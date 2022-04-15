@@ -1,0 +1,1 @@
+- 👋 Hi, I’m wilhelm.weniger@bluewin.ch. - I am looking to connect PHD2 with a telescope which is an Arduino that uses my own protocol on Serial.Port. Probably a look into Source of PHD2 could help me.
